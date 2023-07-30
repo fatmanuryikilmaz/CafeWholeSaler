@@ -1,0 +1,16 @@
+C:\Users\fatma\OneDrive\Desktop\CafeWholesaler(prosedursuz)\CafeWholesaler(prosedursuz)\bin\Debug\CafeWholesaler(prosedursuz).exe.config
+C:\Users\fatma\OneDrive\Desktop\CafeWholesaler(prosedursuz)\CafeWholesaler(prosedursuz)\bin\Debug\CafeWholesaler(prosedursuz).exe
+C:\Users\fatma\OneDrive\Desktop\CafeWholesaler(prosedursuz)\CafeWholesaler(prosedursuz)\bin\Debug\CafeWholesaler(prosedursuz).pdb
+C:\Users\fatma\OneDrive\Desktop\CafeWholesaler(prosedursuz)\CafeWholesaler(prosedursuz)\obj\Debug\CafeWholesaler(prosedursuz).csproj.AssemblyReference.cache
+C:\Users\fatma\OneDrive\Desktop\CafeWholesaler(prosedursuz)\CafeWholesaler(prosedursuz)\obj\Debug\CafeWholesaler(prosedursuz).csproj.SuggestedBindingRedirects.cache
+C:\Users\fatma\OneDrive\Desktop\CafeWholesaler(prosedursuz)\CafeWholesaler(prosedursuz)\obj\Debug\CafeWholesaler_prosedursuz_.Admin.resources
+C:\Users\fatma\OneDrive\Desktop\CafeWholesaler(prosedursuz)\CafeWholesaler(prosedursuz)\obj\Debug\CafeWholesaler_prosedursuz_.Properties.Resources.resources
+C:\Users\fatma\OneDrive\Desktop\CafeWholesaler(prosedursuz)\CafeWholesaler(prosedursuz)\obj\Debug\CafeWholesaler(prosedursuz).csproj.GenerateResource.cache
+C:\Users\fatma\OneDrive\Desktop\CafeWholesaler(prosedursuz)\CafeWholesaler(prosedursuz)\obj\Debug\CafeWholesaler(prosedursuz).csproj.CoreCompileInputs.cache
+C:\Users\fatma\OneDrive\Desktop\CafeWholesaler(prosedursuz)\CafeWholesaler(prosedursuz)\obj\Debug\CafeWholesaler(prosedursuz).exe
+C:\Users\fatma\OneDrive\Desktop\CafeWholesaler(prosedursuz)\CafeWholesaler(prosedursuz)\obj\Debug\CafeWholesaler(prosedursuz).pdb
+C:\Users\fatma\OneDrive\Desktop\CafeWholesaler(prosedursuz)\CafeWholesaler(prosedursuz)\obj\Debug\CafeWholesaler_prosedursuz_.Customer.resources
+C:\Users\fatma\OneDrive\Desktop\CafeWholesaler(prosedursuz)\CafeWholesaler(prosedursuz)\obj\Debug\CafeWholesaler_prosedursuz_.HomePage.resources
+C:\Users\fatma\OneDrive\Desktop\CafeWholesaler(prosedursuz)\CafeWholesaler(prosedursuz)\obj\Debug\CafeWholesaler_prosedursuz_.Product.resources
+C:\Users\fatma\OneDrive\Desktop\CafeWholesaler(prosedursuz)\CafeWholesaler(prosedursuz)\obj\Debug\CafeWholesaler_prosedursuz_.OrderPage.resources
+C:\Users\fatma\OneDrive\Desktop\CafeWholesaler(prosedursuz)\CafeWholesaler(prosedursuz)\obj\Debug\CafeWholesaler_prosedursuz_.OrderDetails.resources
