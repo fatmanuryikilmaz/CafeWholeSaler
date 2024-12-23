@@ -33,10 +33,3 @@ Uygulamanın detaylı bir demosunu izlemek için aşağıdaki bağlantıya tıkl
 ### Ekle\Çıkar\Sil Yönetimi
 ![Sipariş Yönetimi](images/addUpdateDelete.png)
 
-## Katkıda Bulunma
-
-Projeye katkıda bulunmak için aşağıdaki adımları takip edebilirsiniz:
-1. Bu repository'yi fork edin.
-2. Kendi branch'inizde değişiklik yapın:
-   ```bash
-   git checkout -b yeni-ozellik
